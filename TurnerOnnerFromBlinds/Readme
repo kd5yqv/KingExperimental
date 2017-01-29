@@ -1,0 +1,6 @@
+Dammit, I don't how to do this the right way.  
+
+I borrowed 90% of this code from: https://github.com/hobbzey/Simplest-SmartThings-ESP8266-Blinds 
+
+I changed up the servo movement so that the servo returned to center after each command. 
+I did this because I am using a Wicked Devices light switch backing plate, the Turner Onner.  
